@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+h1,
+a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a:hover {
+    color: black;
+    background: white;
+    font-size: 40px;
+    border-radius: 5px;
+}
+
+.text-1
+{
+text-align: center;
+color: red;
+font-variant: small-caps;
+}
+
+.text-2{
+text-align: center;
+color: red;
+letter-spacing: 3px;
+}
+
+.text-3,
+.text-4{
+    text-align: left;
+    color: red;
+    font-variant: small-caps;
+}
+
+.text-4{
+    letter-spacing: 3px;
+}
+
+.red{
+    color: greenyellow;
+}
+.black{
+font-size: 25px;
+}
+
